@@ -1,0 +1,24 @@
+ol{
+    font-style: italic;
+
+}
+
+#ol1{
+    list-style-type: georgian;
+}
+
+#ol2{
+    list-style-type: armenian;
+}
+
+#ol3{
+    list-style-type: circle ;
+}
+ul li::marker{
+    
+    content: "🏎️";
+}
+
+#lc{
+    color: gold;
+}
